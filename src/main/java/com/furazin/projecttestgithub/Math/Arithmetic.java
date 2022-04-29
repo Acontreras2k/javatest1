@@ -24,4 +24,11 @@ public class Arithmetic {
     public int div() {
         return a/b;
     }
+    
+    public int square(){
+    return a*a;
+    
+    }
+    
+    
 }
